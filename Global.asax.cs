@@ -13,6 +13,7 @@ namespace MVCEventCalendar
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            //Priynka
         }
     }
 }
